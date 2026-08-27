@@ -1,0 +1,2 @@
+É preciso baixar tanto o arquivo notebook .ipynb quanto o dataset, em .txt, emotions.txt para rodar no Colab. 
+Feito isso, anexar emotions.txt no Colab (ícone de pasta à esquerda). 
